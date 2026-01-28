@@ -1,7 +1,19 @@
-# Hi, I’m Darren 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ManaFryst/ManaFryst/main/assets/banner.jpg" />
+</p>
+
+<h1 align="center">ManaFryst</h1>
+
+<p align="center">
+  Systems • Automation • Web • Infrastructure
+</p>
+
+---
+
+### About
 
 I’m interested in how systems are built, how they fail, and how to make them behave.
-My focus is on learning through practical experimentation rather than public noise.
+I prefer learning through hands-on experimentation rather than public noise.
 
 Most of my work lives in private repositories while I learn, break things, and rebuild them properly.
 
@@ -39,7 +51,7 @@ Most of my work lives in private repositories while I learn, break things, and r
 
 🌐 **Personal site**  
 A clean, professional profile showcasing my work style, design approach, and online presence  
-→ https://your-site-here.com
+→ https://manafryst.github.io/coffee-profile
 
 This site is intentionally minimal and acts as a central hub rather than a project dump.
 
@@ -50,7 +62,6 @@ This site is intentionally minimal and acts as a central hub rather than a proje
 - Strengthening Python fundamentals through small, deliberate programs  
 - Writing cleaner shell scripts for daily workflows  
 - Building and maintaining a personal home lab  
-- Learning by maintaining systems rather than chasing flashy demos  
 
 ---
 
