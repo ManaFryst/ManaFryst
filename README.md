@@ -67,5 +67,4 @@ This site is intentionally minimal and acts as a central hub rather than a proje
 
 ## Notes
 
-I prefer learning privately, documenting selectively, and publishing when something is solid.
-Noise is easy. Craft takes time.
+I prefer learning privately, documenting selectively, and I only publish when I have something solid
